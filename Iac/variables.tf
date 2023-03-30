@@ -1,5 +1,5 @@
 
-variable "IBM" {
+variable "IBM_Manoj" {
   default     = "Verity"
   description = "name of you orgnisation"
 }
