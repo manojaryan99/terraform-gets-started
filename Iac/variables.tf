@@ -1,18 +1,18 @@
 
-variable "org_name" {
+variable "IBM" {
   default     = "Verity"
   description = "name of you orgnisation"
 }
 
-variable "project_name" {
+variable "IBMProject" {
   default     = "Smithaproj"
   description = "name of you project"
   type        = string
 }
-variable "environment_name" {
+variable "environment_name_Manoj" {
   default = "DEV"
 }
-variable "environment_instance" {
+variable "environment_instance_Manoj" {
   default = "001"
 }
 
